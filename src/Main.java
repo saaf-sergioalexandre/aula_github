@@ -15,6 +15,8 @@ public class Main {
 		showResult(higher);
 		sc.close();
 		
+		System.out.println("aqui...");
+		
 	}
 	
 	public static int max(int x, int y, int z) {
